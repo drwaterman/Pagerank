@@ -14,3 +14,5 @@ This application is a simple model of a search engine written in Python and usin
 * **force.html** loads spider.js and creates a force-directed graph based on the page rankings using the d3 library from http://mbostock.github.com/d3
 
 The data currently stored in the database and displayed at force.html comes from crawling the jmu.edu website.
+View force.html page here:
+http://htmlpreview.github.io/?https://github.com/drwaterman/Pagerank/blob/master/force.html
